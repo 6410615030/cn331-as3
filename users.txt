@@ -1,0 +1,12 @@
+1. username: admin
+   password: ubuntu1234
+
+2. username: Natiphon
+   password: pang16102545
+
+3. username: supakrit
+   password: John2545
+
+4. username: Harry
+   password: Potter55
+
