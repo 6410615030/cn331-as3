@@ -127,8 +127,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # CSRF_TRUSTED_ORIGINS = []
 
+CSRF_TRUSTED_ORIGINS = ['https://secure-meadow-65765.herokuapp.com/login/']
+
 import django_heroku
 django_heroku.settings(locals())
-
-
-CSRF_TRUSTED_ORIGINS = ['https://secure-meadow-65765.herokuapp.com/login/']
