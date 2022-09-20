@@ -131,3 +131,5 @@ CSRF_TRUSTED_ORIGINS = ['https://secure-meadow-65765.herokuapp.com/login/']
 
 import django_heroku
 django_heroku.settings(locals())
+
+
